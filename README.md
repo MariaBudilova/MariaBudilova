@@ -204,7 +204,7 @@
 
 **Решение**
 
-[Тест-кес](https://drive.google.com/file/d/1moa8aYMykNHr2foZ330iOLWVvh5_Rhxp/view?usp=sharing)
+[Тест-кейс](https://drive.google.com/file/d/1moa8aYMykNHr2foZ330iOLWVvh5_Rhxp/view?usp=sharing)
 
 ***
 
